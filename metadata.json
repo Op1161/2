@@ -1,0 +1,5 @@
+{
+  "name": "Tone & Transcript Tool",
+  "description": "A dual-purpose tool for generating yt-dlp commands and processing transcripts with AI-powered tone segmentation.",
+  "requestFramePermissions": []
+}
